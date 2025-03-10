@@ -37,7 +37,7 @@ Pode usar View / Command Palette / >Organize Imports .. mas saber decidir qual u
 - [ ] [Uni3Exe02.java](src/Uni3Exe02.java "Uni3Exe02.java") <!-- prof. algoritmo 5 min. -->  
 - [ ] [Uni3Exe03.java](src/Uni3Exe03.java "Uni3Exe03.java") <!-- 10 min. -->
 
-- O que entregar no dia 17/03 da Lista de Exercícios:
+O que entregar no dia 17/03 da Lista de Exercícios:
 - Todos os 16 exercícios da lista resolvidos contendo: definição das entradas, saída, processo, testes, fluxograma e código-fonte JAVA
 - As definições iniciais de Entrada, Saída, Processo e Testes podem constar como comentário antes do método main dentro do arquivo Java ou em um documento separado (word, pdf, etc)
 - Os fluxogramas podem ser entregues em formato .PDF, .PNG, .JPG, etc e pode ser entregues em um único documento (contendo os 16 fluxogramas) ou um documento para cada fluxograma
@@ -67,7 +67,8 @@ Desenvolvimento de código (mostrar um exemplo de uso do DEBUG)
 - Resolver os dois primeiros exercícios do URI no VSCode e depois colocar no URI.  
 - Para o Uni3Uri1002.java será necessário usar formatação, [DecimalFormat](/Exemplos/src/ExemploDecimalFormat.java "DecimalFormat").  
 
-- Como acessar o Beecrowd (URI):
+
+Como acessar o Beecrowd (URI):
 - Criar uma conta (talent) com o e-mail da furb (@furb.br)
 - Ir na guia Acadêmico
 - Entrar em uma nova turma e digitar o código da turma e o token: 14109 / rm0d8PE
