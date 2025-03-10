@@ -8,10 +8,10 @@ Bom, agora vocês devem acessar o link
 [https://bcwd.me/d-13196](<https://bcwd.me/d-13196> "https://bcwd.me/d-13196")  
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
-para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2024_2_A**.  
+para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2025_1_B**.  
 
 <!-- [ ] INICIO atualizar - Token da Disciplina -->
-Assim que acessar a disciplina informe a seguinte chave de acesso (token): hKnBeMR  
+Assim que acessar a disciplina informe a seguinte chave de acesso (token): rm0d8PE  
 
 Mas ATENÇÃO, usem o e-mail da FURB (seuLogin @ furb . br) para criar a conta de vocês, e aonde for pedido para preencher o seu nome coloque o seu nome correto e completo.  
 
