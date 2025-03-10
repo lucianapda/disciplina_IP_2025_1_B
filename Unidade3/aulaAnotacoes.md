@@ -35,8 +35,14 @@ Pode usar View / Command Palette / >Organize Imports .. mas saber decidir qual u
 
 - [ ] [Uni3Exe01.java](src/Uni3Exe01.java "Uni3Exe01.java") <!-- prof. completo -->  
 - [ ] [Uni3Exe02.java](src/Uni3Exe02.java "Uni3Exe02.java") <!-- prof. algoritmo 5 min. -->  
-- [ ] [Uni3Exe03.java](src/Uni3Exe03.java "Uni3Exe03.java") <!-- 10 min. -->  
+- [ ] [Uni3Exe03.java](src/Uni3Exe03.java "Uni3Exe03.java") <!-- 10 min. -->
 
+- O que entregar no dia 17/03 da Lista de Exercícios:
+- Todos os 16 exercícios da lista resolvidos contendo: definição das entradas, saída, processo, testes, fluxograma e código-fonte JAVA
+- As definições iniciais de Entrada, Saída, Processo e Testes podem constar como comentário antes do método main dentro do arquivo Java ou em um documento separado (word, pdf, etc)
+- Os fluxogramas podem ser entregues em formato .PDF, .PNG, .JPG, etc e pode ser entregues em um único documento (contendo os 16 fluxogramas) ou um documento para cada fluxograma
+- Os arquivos Java devem ser entregues em formato ".java" - deve-se entregar SOMENTE o arquivo java e não o projeto inteiro
+- Compactar tudo e enviar via AVA.
 ----
 Desenvolvimento de código (mostrar um exemplo de uso do DEBUG)  
   Executar código  
@@ -54,20 +60,6 @@ Desenvolvimento de código (mostrar um exemplo de uso do DEBUG)
 <!-- para saber mais, avançado: <https://code.visualstudio.com/docs/java/java-debugging> -->
 ----
 
-- [ ] Uni3Exe04.java  
-- [ ] Uni3Exe05.java  
-- [ ] Uni3Exe06.java
-- [ ] Uni3Exe07.java  
-- [ ] Uni3Exe08.java  
-- [ ] Uni3Exe09.java  
-- [ ] Uni3Exe10.java  <!-- prof. só o algoritmo -->  
-- [ ] Uni3Exe11.java  
-- [ ] Uni3Exe12.java  
-- [ ] Uni3Exe13.java  
-- [ ] Uni3Exe14.java  
-- [ ] [Uni3Exe15.java](src/Uni3Exe15.java "Uni3Exe15.java") <!-- 15 min. -->  
-- [ ] Uni3Exe16.java  
-
 ### [Atividades - URI](atividadeUri.md "Atividades - URI")
 
 - Apresentar o URI, mostrar como eles fazem para entrar na turma.  
@@ -75,22 +67,12 @@ Desenvolvimento de código (mostrar um exemplo de uso do DEBUG)
 - Resolver os dois primeiros exercícios do URI no VSCode e depois colocar no URI.  
 - Para o Uni3Uri1002.java será necessário usar formatação, [DecimalFormat](/Exemplos/src/ExemploDecimalFormat.java "DecimalFormat").  
 
-#### Resolução de exercícios URI individualmente pelos alunos  
+- Como acessar o Beecrowd (URI):
+- Criar uma conta (talent) com o e-mail da furb (@furb.br)
+- Ir na guia Acadêmico
+- Entrar em uma nova turma e digitar o código da turma e o token: 14109 / rm0d8PE
 
-- [ ] [Uni3Uri1001.java](src/Uni3Uri1001.java "Uni3Uri1001.java") - [ ] [fluxograma](fluxogramas/Uni3Uri1001.svg "fluxograma") <!-- prof. completo -->  
-- [ ] [Uni3Uri1002.java](src/Uni3Uri1002.java "Uni3Uri1002.java") - [ ] [fluxograma](fluxogramas/Uni3Uri1002.svg "fluxograma") <!-- prof. algoritmo 10 min. -->  
-- [ ] Uni3Uri1004.java  
-- [ ] Uni3Uri1005.java  
-- [ ] Uni3Uri1007.java  
-- [ ] Uni3Uri1008.java  
-- [ ] Uni3Uri1009.java  
-- [ ] Uni3Uri1010.java - [ ] [fluxograma](fluxogramas/Uni3Uri1010.svg "fluxograma")  
-- [ ] Uni3Uri1012.java - [ ] [fluxograma](fluxogramas/Uni3Uri1012.svg "fluxograma")  
-- [ ] Uni3Uri1015.java  
-- [ ] Uni3Uri1016.java  
-- [ ] Uni3Uri1018.java - [ ] [fluxograma](fluxogramas/Uni3Uri1018.svg "fluxograma")  
-- [ ] Uni3Uri1019.java  
-- [ ] Uni3Uri1021.java  
+#### Resolução de exercícios URI individualmente pelos alunos  
 
 #### Rabiscos do processo de entender os enunciados
 
