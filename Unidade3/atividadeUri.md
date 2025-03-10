@@ -5,13 +5,13 @@ Olá, agora a atividade desta unidade será utilizar o URI para praticar a inter
 Bom, agora vocês devem acessar o link  
 
 <!-- [ ] INICIO atualizar - Link da disciplina -->
-[https://bcwd.me/14109](<https://bcwd.me/14109> "https://bcwd.me/14109")  
+[https://bcwd.me/](<https://bcwd.me/> "https://bcwd.me/")  
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
 para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2025_1_B**.  
 
 <!-- [ ] INICIO atualizar - Token da Disciplina -->
-Assim que acessar a disciplina informe a seguinte chave de acesso (token): rm0d8PE  
+Assim que acessar a disciplina informe o seguinte código: 14109 e a seguinte chave de acesso (token): rm0d8PE  
 
 Mas ATENÇÃO, usem o e-mail da FURB (seuLogin @ furb . br) para criar a conta de vocês, e aonde for pedido para preencher o seu nome coloque o seu nome correto e completo.  
 
